@@ -8,7 +8,7 @@ public class Main {
         System.out.print("Boyunuzu Metre Cinsinden Giriniz : ");
         boy = imput.nextDouble();
         double vki = kilo/(boy*boy);
-        System.out.println("Vücut Kütle Endeksiniz : " + vki);
+        System.out.println("Vücut Kitle Endeksiniz : " + vki);
 
     }
 }
